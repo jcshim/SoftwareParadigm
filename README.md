@@ -1,8 +1,7 @@
 # SoftwareParadigm
-SoftwareParadigm
-제목: 초중등교사 직무연수(영재교육원-강원석) 절차지향 SW패러다임 (Procedure-oriented Software Paradigms) <br>
-참석예정자: 27명 지원하였고 초등 20명 중학교 5명, 고등학교 2명으로 총 27명  <br>
-시간: 14:00~17:00  <br>
+* 제목: 초중등교사 직무연수(영재교육원-강원석) 절차지향 SW패러다임 (Procedure-oriented Software Paradigms)
+* 참석예정자: 27명 지원하였고 초등 20명 중학교 5명, 고등학교 2명으로 총 27명
+* 시간: 14:00~17:00
 
 # 세부일정:
 ## [제1강]
