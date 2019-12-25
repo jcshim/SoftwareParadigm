@@ -88,5 +88,4 @@
     - 컴포넌트 구현 장치로 빈 클래스 형태로 구현하도록 명시
     - 컴포넌트를 서버에 배치하기 위해서는 디플로이먼트 디스크립터(Deployment Descriptor)라는 파일에 배치할 컴포넌트들에 대한 명세를 정의하도록 하고 있다.
 
-[1] 출처-UML과 JAVA로 배우는 객체지향 설계 및 구현 <br>
-[2] https://frontierdev.tistory.com/91
+[1] [출처-UML과 JAVA로 배우는 객체지향 설계 및 구현](https://frontierdev.tistory.com/91)
