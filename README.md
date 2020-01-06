@@ -46,6 +46,10 @@
       * UWP(Universal Windows Platform, window10 모든 기기)
     - [Linux in Windows](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)
   * AI SW development
+  * IT Leader
+    - Ellon Musk
+    - Bill Gates
+    - 손정의
 
 ## [제2강]
 * 15:00-15:10 팀의 구성 및 TL(Thinking Leader) 선택 하기
@@ -55,6 +59,8 @@
 
 ## [제3강]
 * 16:00-16:50 팀별 절차지향 SW 패러다임 연구, 정리, 발표 
+* 모소대나무
+* Leadership
 
 ## [참고자료]
 * [절차지향 vs 객체지향](https://brownbears.tistory.com/407)
