@@ -23,6 +23,8 @@
   * 년도별 IT 변화 퀴즈: 1980, 1990, 2000, 2010, 2020...
   * 4차산업혁명
     * AlphaGo, AlphaZero
+  * 그래프로 보는 세상
+    * [그래프로 보는 TOP10 세계 휴대폰 점유율 순위 2010~2019](https://youtu.be/J0Maz5MHCaY)
     * [그래프로보는 반도체 순수익](https://youtu.be/54o87csdpSA)
   * 토의, 통신속도의 변화와 SW의 변화
     * 4G vs 5G
@@ -59,8 +61,13 @@
 
 ## [제3강]
 * 16:00-16:50 팀별 절차지향 SW 패러다임 연구, 정리, 발표 
-* 모소대나무
-* Leadership
+* 꿈꾸는 미래
+  * [신라면이 되고 싶다.](https://youtu.be/9oYa6iGy8Qg)
+  * [리그 오브 레전드](https://youtu.be/WloiWJVDf8Q)
+* 결론
+  * 모소대나무
+  * Leadership  
+  
 
 ## [참고자료]
 * [절차지향 vs 객체지향](https://brownbears.tistory.com/407)
