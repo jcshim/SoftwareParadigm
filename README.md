@@ -19,22 +19,23 @@
 ## [제1강]
 * 14:00-14:10 강의소개 및 참석자 소개
 * 14:20-14:50 SW 패러다임의 변화 및 새로운 세계 소개
+  * Smart Phone 퀴즈?
   * 년도별 IT 변화 퀴즈: 1980, 1990, 2000, 2010, 2020...
   * 4차산업혁명
-    * Smart Phone 퀴즈?
-    * Memory (순수익)
-  * 통신속도의 변화와 SW의 변화
+    * AlphaGo, AlphaZero
+    * [그래프로보는 반도체 순수익](https://youtu.be/54o87csdpSA)
+  * 토의, 통신속도의 변화와 SW의 변화
     * 4G vs 5G
-  * HW vs SW
+  * 토의, HW vs SW
     * HW: 노키아, 모토롤라
     * JAVA
     * 마이크로 소프트
   * 최근 SW관련 변화된 세계를 체험할 수 있다.
-    * Most Popular Languages
+    * Most Popular Languages (Stack Overflow)
     * Most Love Languages
     * Top salary Langusges
   * Open Source Software
-    - Github
+    - [Github](https://youtu.be/FXDjmsiv8fI)
     - Markdown Lanugage
     - LinkedIn 
   * Popular Programming Languages 
