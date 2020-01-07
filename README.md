@@ -51,8 +51,8 @@
   * AI SW development
   * IT Leader
     - [Ellon Musk](https://cafe.naver.com/jcshim/1736)
-    - [Bill Gates]()
-    - [손정의]()
+    - [Bill Gates](https://cafe.naver.com/jcshim/1721)
+    - [손정의](https://cafe.naver.com/jcshim/1577)
 
 ## [제2강]
 * 15:00-15:10 팀의 구성 및 TL(Thinking Leader) 선택 하기
@@ -67,8 +67,8 @@
   * [신라면이 되고 싶다.](https://youtu.be/9oYa6iGy8Qg)
   * [리그 오브 레전드](https://youtu.be/WloiWJVDf8Q)
 * 결론
-  * 모소대나무
-  * Leadership  
+  * [모소대나무](https://cafe.naver.com/jcshim/1763)
+  * [Leadership](https://youtu.be/yb796sRnkm0)
   
 
 ## [참고자료]
