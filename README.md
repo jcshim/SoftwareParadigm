@@ -41,8 +41,11 @@
     - [Github](https://youtu.be/FXDjmsiv8fI)
     - Markdown Lanugage
     - LinkedIn 
-  * Popular Programming Languages 
-  * Cloud based Computing
+  * Programming Languages 
+    - [Most Popular - TIOBE](https://www.tiobe.com/tiobe-index/)
+    - [Most Loved](https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted)
+    - [Top paying, Salary](https://insights.stackoverflow.com/survey/2019#top-paying-technologies) 
+      * Cloud based Computing
   * Code Editors
     - Visual Studio (FREE)
       * MFC(Microsoft Foundation Classes, Navive)
