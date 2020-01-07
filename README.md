@@ -50,9 +50,9 @@
     - [Linux in Windows](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)
   * AI SW development
   * IT Leader
-    - Ellon Musk
-    - Bill Gates
-    - 손정의
+    - [Ellon Musk](https://cafe.naver.com/jcshim/1736)
+    - [Bill Gates]()
+    - [손정의]()
 
 ## [제2강]
 * 15:00-15:10 팀의 구성 및 TL(Thinking Leader) 선택 하기
