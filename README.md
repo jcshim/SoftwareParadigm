@@ -7,22 +7,23 @@
 * 시간: 14:00~17:00
 
 # 강의목표
-* SW와 관련한 최근 변화에 대해 
+* SW와 관련한 최근 변화에 대해 설명할 수 있다.
   * 4차 산업혁명과 SW 역할을 설명할 수 있다.
   * 통신 속도의 발전에 따른 SW의 변화를 말 할 수 있다.
   * HW 발전에 따른 SW의 발전 상관성을 설명할 수 있다.
 * SW 패러다임에 대해 설명할 수 있다.
 * SW 패러다임의 종류에 대해 설명할 수 있다.
-* 절차지향과 객체지향 SW 패러다임을 비교할 수 있다.
+* 절차지향 패러다임, 객체지향 패러다임, 함수형 프로그래밍 패러다임을 비교 설명 할 수 있다.
 
 # 세부일정
 ## [제1강]
 * 14:00-14:10 강의소개 및 참석자 소개
 * 14:20-14:50 SW 패러다임의 변화 및 새로운 세계 소개
-  * Smart Phone 퀴즈?
   * 년도별 IT 변화 퀴즈: 1980, 1990, 2000, 2010, 2020...
+  * Smart Phone 퀴즈?
   * 4차산업혁명
-    * AlphaGo, AlphaZero
+    * [AlphaGo](https://www.google.com/search?q=%EC%95%8C%ED%8C%8C%EA%B3%A0%2C+%EC%9D%B4%EC%84%B8%EB%8F%8C+%EA%B5%AC%EA%B8%80%EC%A3%BC%EA%B0%80&oq=%EC%95%8C%ED%8C%8C%EA%B3%A0%2C+%EC%9D%B4%EC%84%B8%EB%8F%8C+%EA%B5%AC%EA%B8%80%EC%A3%BC%EA%B0%80&aqs=chrome..69i57.7793j0j8&sourceid=chrome&ie=UTF-8)
+    * [AlphaZero](https://www.youtube.com/watch?v=ic3RfxD9zQE)
   * 그래프로 보는 세상
     * [그래프로 보는 TOP10 세계 휴대폰 점유율 순위 2010~2019](https://youtu.be/J0Maz5MHCaY)
     * [그래프로보는 반도체 순수익](https://youtu.be/54o87csdpSA)
