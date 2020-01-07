@@ -56,6 +56,7 @@
 ## [제2강]
 * 15:00-15:10 팀의 구성 및 TL(Thinking Leader) 선택 하기
 * 15:10-15:50 팀별 SW 패러다임 연구, 정리, 발표
+  * [절차지향.객체지향 프로그래밍 {유튜브-얇팍한 코딩사전} 객체지향 프로그래밍이 뭔가요?](https://youtu.be/vrhIxBWSJ04)
   * [절차지향 프로그래밍](https://cafe.naver.com/jcshim/1872)
   * [함수형 프로그래밍](https://cafe.naver.com/jcshim/1871)
 
