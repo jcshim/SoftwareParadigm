@@ -1,9 +1,9 @@
 # SoftwareParadigm
 * 연수: 초중등교사 직무연수
-* 제목: 절차지향 SW패러다임 (Procedure-oriented Software Paradigms)
-* 지원: 영재교육원-강원석 
-* 참석예정자: 27명(초20명 중5명,고2명)
-* 일자: 2020.1.7 / 2021.1.4
+* 제목: 절차적 SW 패러다임 [절차지향 SW패러다임 (Procedure-oriented Software Paradigms)]
+* 지원: 영재교육원 - 전용주 교수님
+* 참석예정자: 17명 (초교 16, 고교 1)
+* 일자:  2021.1.4
 * 시간: 14:00~17:00
 
 # 강의목표
